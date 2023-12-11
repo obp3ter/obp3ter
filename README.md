@@ -22,8 +22,8 @@ src="https://img.shields.io/github/followers/obp3ter?logo=github&style=for-the-b
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://www.elastic.co/elastic-stack/" target="_blank" rel="noreferrer"><img src="https://images.contentstack.io/v3/assets/bltefdd0b53724fa2ce/blt601c406b0b5af740/620577381692951393fdf8d6/elastic-logo-cluster.svg" width="36" height="36" alt="Elastic" /></a>
-<a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img src="https://www.sophos.com/sites/default/files/2022-02/googlecloud.png" width="36" height="36" alt="GCP" /></a>
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://a0.awsstatic.com/libra-css/images/logos/aws_smile-header-desktop-en-white_59x35.png" width="36" height="36" alt="AWS" /></a>
+<a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img src="https://www.sophos.com/sites/default/files/2022-02/googlecloud.png" width="45" height="36" alt="GCP" /></a>
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://a0.awsstatic.com/libra-css/images/logos/aws_smile-header-desktop-en-white_59x35.png" width="59" height="35" alt="AWS" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
