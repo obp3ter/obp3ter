@@ -4,11 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-Right now I work as a Full-Stack Developer and continuously learn new things.
+Right now I work as a Senior Java Software Engineer and continuously learn new things.
 
 * 🌍  I'm based in Cluj-Napoca
 * ✉️  You can contact me at [Ob.P3ter@gmail.com](mailto:Ob.P3ter@gmail.com)
-* 🧠  I'm continuously learning could technologies
+* 🧠  I'm continuously learning new technologies
 * 🤝  I'm open to collaborating on anything fun
 * ⚡  I'm really into Minecraft, I also made a simple mod for it.
 
